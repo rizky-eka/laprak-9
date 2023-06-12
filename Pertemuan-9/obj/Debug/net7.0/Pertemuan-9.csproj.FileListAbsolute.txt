@@ -1,0 +1,15 @@
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/bin/Debug/net7.0/Pertemuan-9
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/bin/Debug/net7.0/Pertemuan-9.deps.json
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/bin/Debug/net7.0/Pertemuan-9.runtimeconfig.json
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/bin/Debug/net7.0/Pertemuan-9.dll
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/bin/Debug/net7.0/Pertemuan-9.pdb
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/obj/Debug/net7.0/Pertemuan-9.csproj.AssemblyReference.cache
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/obj/Debug/net7.0/Pertemuan-9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/obj/Debug/net7.0/Pertemuan-9.AssemblyInfoInputs.cache
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/obj/Debug/net7.0/Pertemuan-9.AssemblyInfo.cs
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/obj/Debug/net7.0/Pertemuan-9.csproj.CoreCompileInputs.cache
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/obj/Debug/net7.0/Pertemuan-9.dll
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/obj/Debug/net7.0/refint/Pertemuan-9.dll
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/obj/Debug/net7.0/Pertemuan-9.pdb
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/obj/Debug/net7.0/Pertemuan-9.genruntimeconfig.cache
+/Users/rizky28eka/Projects/Pertemuan-9/Pertemuan-9/obj/Debug/net7.0/ref/Pertemuan-9.dll
